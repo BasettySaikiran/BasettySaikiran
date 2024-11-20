@@ -2,8 +2,8 @@
 
 
 👨‍💻 About Me
-🔭 I’m currently working on AI-Powered Health Coaching for Diabetes.
-🌱 I’m passionate about Machine Learning, Data Science, Cloud Computing, and IoT.
+-- 🔭 I’m currently working on AI-Powered Health Coaching for Diabetes.
+-- 🌱 I’m passionate about Machine Learning, Data Science, Cloud Computing, and IoT.
 💼 Former Software Engineer at Cognizant Technology Solutions (2.7 years of experience).
 👨‍🎓 Pursuing advanced knowledge in cutting-edge software technologies.
 🎯 Goal: To contribute to meaningful projects that drive technological advancements.

@@ -1,8 +1,6 @@
 # Hi there, I'm Sai Kiran Basetty 👋
 
-[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=wordpress&logoColor=white)](https://github.com/BasettySaikiran)  
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sai-kiran-basetty/)  
-[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:sbx7f@umsystem.edu)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sai-kiran-basetty-87172a207/)  
 
 ---
 
@@ -59,12 +57,10 @@
 ## 🌟 Achievements
 
 - 🥇 **First Position** in Innovative Project Expo (Vignan Institute of Technology and Science)  
-- 🏅 Participation in **Hackathon** at BITS Hyderabad  
+- 🏅 Participation in **Hackathon** at BITS Hyderabad
+- **Third Position** in Hack-a-ROO competition conducted by University of Missouri Kansas City
 
 ---
 
 ## 📬 Let's Connect
-
-- 📧 [Email](mailto:sbx7f@umsystem.edu)  
-- 🌐 [GitHub Profile](https://github.com/BasettySaikiran)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/sai-kiran-basetty/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/sai-kiran-basetty-87172a207/)  
